@@ -1,0 +1,65 @@
+.submit {
+    background-color: rgb(166, 196, 196);
+    padding: 5px;
+    font-size: medium;
+    cursor: pointer;
+    border-radius: 4px;
+    border: none;
+    font-weight: bold;
+}
+
+#first-name {
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+    font-size: medium;
+}
+
+#last-name{
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+    font-size: medium;
+}
+
+#address{
+    border-radius: 10px;
+    border: 50px;
+    padding: 5px;
+    font-size: medium;
+}
+
+#pincode{
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+    font-size: medium;
+}
+
+#gender{
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+    font-size: medium;
+}
+
+#food{
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+    font-size: medium;
+}
+
+#state{
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+    font-size: medium;
+}
+
+#country{
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+    font-size: medium;
+}
