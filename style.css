@@ -1,65 +1,37 @@
-.submit {
-    background-color: rgb(166, 196, 196);
-    padding: 5px;
-    font-size: medium;
-    cursor: pointer;
-    border-radius: 4px;
-    border: none;
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Cinzel:wght@400;500;700&family=Josefin+Sans:wght@100;400&family=Redressed&display=swap'); */
+
+.container {
+    padding-bottom: 20px;
+}
+
+#description{
+    font-size: 20px;
+    margin-top: 2em;
     font-weight: bold;
 }
 
-#first-name {
+#show {
     border-radius: 10px;
-    border: none;
-    padding: 5px;
-    font-size: medium;
+    margin: 40px;
+    width: 20%;
+    height: 50%;
+    padding: 15px;
+    font-size: 25px;
 }
 
-#last-name{
+.row {
+    margin-left: 5%;
+    margin-right: 5%;
     border-radius: 10px;
-    border: none;
-    padding: 5px;
-    font-size: medium;
 }
 
-#address{
-    border-radius: 10px;
-    border: 50px;
-    padding: 5px;
-    font-size: medium;
+.cut {
+    border: none;
 }
 
-#pincode{
-    border-radius: 10px;
-    border: none;
-    padding: 5px;
-    font-size: medium;
-}
-
-#gender{
-    border-radius: 10px;
-    border: none;
-    padding: 5px;
-    font-size: medium;
-}
-
-#food{
-    border-radius: 10px;
-    border: none;
-    padding: 5px;
-    font-size: medium;
-}
-
-#state{
-    border-radius: 10px;
-    border: none;
-    padding: 5px;
-    font-size: medium;
-}
-
-#country{
-    border-radius: 10px;
-    border: none;
-    padding: 5px;
-    font-size: medium;
-}
+.disp {
+    height: 3em;
+    width: 15em;
+    margin: 1em;
+    border-radius: 0.5em;
+} 
